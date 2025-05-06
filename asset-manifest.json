@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Annet/static/css/main.f1daa980.css",
+    "main.js": "/Annet/static/js/main.bec2a09e.js",
+    "static/js/453.a1a0e49a.chunk.js": "/Annet/static/js/453.a1a0e49a.chunk.js",
+    "index.html": "/Annet/index.html",
+    "main.f1daa980.css.map": "/Annet/static/css/main.f1daa980.css.map",
+    "main.bec2a09e.js.map": "/Annet/static/js/main.bec2a09e.js.map",
+    "453.a1a0e49a.chunk.js.map": "/Annet/static/js/453.a1a0e49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1daa980.css",
+    "static/js/main.bec2a09e.js"
+  ]
+}
